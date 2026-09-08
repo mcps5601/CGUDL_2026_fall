@@ -14,7 +14,7 @@
 
 | Week | Theme | Slide | Code | Slido | Video |
 |:---:|---|:---:|:---:|:---:|:---:|
-| 1 | 深度學習介紹以及本課程綱要 | | | | |
+| 1 | 深度學習介紹以及本課程綱要 | [`.pdf`](slides/intro_0909.pdf) [`.pptx`](slides/intro_0909.pptx) | | [`slido`](https://app.sli.do/event/cqeiSvc56iZiJ9Q1i7dtKX) | |
 | 2 | 神經網路與梯度下降（含基礎線性代數與微積分） | | | | |
 | 3 | 反向傳播法 | | | | |
 | 4 | 最佳化方法：SGD, Momentum, RMSProp, Adam | | | | |
