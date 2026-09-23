@@ -16,7 +16,7 @@
 |:---:|---|:---:|:---:|:---:|:---:|
 | 1 | 深度學習介紹以及本課程綱要 | [`.pdf`](slides/intro_0909.pdf) [`.pptx`](slides/intro_0909.pptx) | | [`slido`](https://app.sli.do/event/cqeiSvc56iZiJ9Q1i7dtKX) | |
 | 2 | 神經網路與梯度下降（含基礎線性代數與微積分） | [`.pdf`](slides/nn_gd_0916.pdf) [`.pptx`](slides/nn_gd_0916.pptx) | | [`slido`](https://app.sli.do/event/cDYVUSNQekPwi47DSTWbCC) | |
-| 3 | 反向傳播法 | [`.pdf`](slides/backprop_0923.pdf) [`.pptx`](slides/backprop_0923.pptx) | [`.ipynb`](code/bp_and_gd.ipynb) | [`slido`](https://app.sli.do/event/oaHEDVAiaX6QKKuDD592XV) | |
+| 3 | 反向傳播法 | [`.pdf`](slides/backprop_0923.pdf) [`.pptx`](slides/backprop_0923.pptx) [`HW1`](slides/HW1.pdf) | [`.ipynb`](code/bp_and_gd.ipynb) | [`slido`](https://app.sli.do/event/oaHEDVAiaX6QKKuDD592XV) | |
 | 4 | 最佳化方法：SGD, Momentum, RMSProp, Adam | | | | |
 | 5 | 常見損失函數介紹（含基礎資訊理論與機率統計） | | | | |
 | 6 | 卷積神經網路 | | | | |
