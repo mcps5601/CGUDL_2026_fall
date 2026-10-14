@@ -11,6 +11,7 @@
 - 💻 使用語言：Python (PyTorch / Hugging Face Transformers)
 - 🗣️ 授課語言：中文（含部分英文教材）
 - [`課程影片 YouTube 播放清單`]()
+- 📝 [`期末專案分組表單`](https://docs.google.com/forms/d/e/1FAIpQLSc4L0jlYwFT5UvHpcUiGxtNjPaE-c9fh5HtKK2T4M7t__PGJw/viewform?usp=dialog)
 
 | Week | Theme | Slide | Code | Slido | Video |
 |:---:|---|:---:|:---:|:---:|:---:|
