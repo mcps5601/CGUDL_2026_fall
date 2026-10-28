@@ -23,7 +23,7 @@
 | 5 | 常見損失函數介紹（含基礎資訊理論與機率統計） | [`.pdf`](slides/objectives_1007.pdf) [`.pptx`](slides/objectives_1007.pptx) | [`.ipynb`](code/pytorch_mnist.ipynb) | [`slido`](https://app.sli.do/event/o5TmrDLuPyVJ7TjhJi9pYB) | |
 | 6 | 卷積神經網路 | [`.pdf`](slides/cnn_1015.pdf) [`.pptx`](slides/cnn_1015.pptx) [`HW2`](https://docs.google.com/presentation/d/15fBTHuPBqgZygtgtxnKHTHR0DXmO1GnI1UAp9g6S24k/edit?usp=sharing) | [`CNN`](./code/cnn_pytorch/) | [`slido`](https://app.sli.do/event/6p1icb7JSyKKirn6h72LJy) | [`CNN`](https://youtu.be/IgVCyVvLeiw?si=oE8kkuZrl58eL-t9)|
 | 7 | 過擬合、正規化、模型訓練技巧、期末專案介紹 | [`.pdf`](slides/training_tips_1021.pdf) [`.pptx`](slides/training_tips_1021.pptx) | | [`slido`](https://app.sli.do/event/sLiCwUXp4tvmBiueTggqhJ) | |
-| 8 | 自然語言處理：RNN 與序列建模 | [`.pdf`](slides/rnn_1028.pdf) [`.pptx`](slides/rnn_1028.pptx) | | [`slido`](https://app.sli.do/event/jNcLWvE9wkw5j64qvf9Fxd) | |
+| 8 | 自然語言處理：RNN 與序列建模 | [`.pdf`](slides/rnn_1028.pdf) [`.pptx`](slides/rnn_1028.pptx) | [`NLP_pytorch`](./code/NN_中文文本分類.ipynb) | [`slido`](https://app.sli.do/event/jNcLWvE9wkw5j64qvf9Fxd) | |
 | 9 | 期中考 | | | | |
 | 10 | 自注意力機制模型 | | | | |
 | 11 | Vision Transformers (ViT)、自監督式學習與預訓練模型 | | | | |
