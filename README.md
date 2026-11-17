@@ -26,7 +26,7 @@
 | 8 | 自然語言處理：RNN 與序列建模 | [`.pdf`](slides/rnn_1028.pdf) [`.pptx`](slides/rnn_1028.pptx) | [`NLP_pytorch`](./code/NN_中文文本分類.ipynb) | [`slido`](https://app.sli.do/event/jNcLWvE9wkw5j64qvf9Fxd) | |
 | 9 | 期中考 | | | | |
 | 10 | 自注意力機制模型 | [`.pdf`](slides/transformers_1111.pdf) [`.pptx`](slides/transformers_1111.pptx) [`HW3`](https://docs.google.com/presentation/d/19WAjsrhFisa6OTKGrdg0MYbQKSt-F_rw6N4PT_Ai5l4/edit?usp=sharing) | [`HW3`](homework/hw3) | [`slido`](https://app.sli.do/event/uuJpcD24bAi7Qj7EzSgQCm) |  |
-| 11 | Vision Transformers (ViT)、自監督式學習與預訓練模型 | | | | |
+| 11 | Vision Transformers (ViT)、自監督式學習與預訓練模型 | [`pdf1`](slides/transformer2_1118.pdf) [`pptx1`](slides/transformer2_1118.pptx) [`pdf2`](slides/ssl_1118.pdf) [`pptx2`](slides/ssl_1118.pptx) | | [`slido`](https://app.sli.do/event/tfF7Lx44ZFAeR5kPTqWokA) | |
 | 12 | 大型語言模型 | | | | |
 | 13 | 大模型時代如何有效率訓練模型？ | | | | |
 | 14 | 圖神經網路 | | | | |
